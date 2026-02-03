@@ -12,7 +12,7 @@ I use Python, SQL, NLP, and AI tools to bridge data → insights → decisions. 
 ## Notebooks
 
 ### 1. RFM Analysis for Marketing & Sales Strategy
-- **Tech**: Python, Hugging Face Transformers (pre-trained NLP model), Pandas, Matplotlib  
+- **Tech**: Python, KMeans, Pandas, Matplotlib  
 - **What it does**: Classifies customers into segments: loyal, average and dormant; analyzes their spending habits at a retail center.
 - **Business value**: Helps marketing & sales team to determine the most effective strategies for driving conversion through the sales funnel based on current customer patterns.  
 - **Notebook**: [https://colab.research.google.com/drive/16N4eYYZerXULFYJs4TKkPscfvZBQAYxs?usp=sharing]
